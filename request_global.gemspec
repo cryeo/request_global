@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Chaerim Yeo"]
   spec.email         = ["yeochaerim@gmail.com"]
 
-  spec.summary       = %q{Global storage per request for Rails}
-  spec.description   = %q{Global storage per request for Rails}
+  spec.summary       = "Global storage per request for Rails"
+  spec.description   = "RequestGlobal provides global storage per request for Rails"
   spec.homepage      = "http://github.com/cryeo/request_global"
   spec.license       = "MIT"
 
@@ -23,6 +23,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.11"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_development_dependency "rake-compiler"
+  spec.add_development_dependency "rake-compiler", "~> 0"
   spec.add_development_dependency "rspec", "~> 3.0"
 end
