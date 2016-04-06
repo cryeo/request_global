@@ -1,4 +1,4 @@
-# RequestGlobal
+# RequestGlobal [![Gem Version](https://badge.fury.io/rb/request_global.svg)](https://badge.fury.io/rb/request_global) [![Code Climate](https://codeclimate.com/github/cryeo/request_global/badges/gpa.svg)](https://codeclimate.com/github/cryeo/request_global) [![Build Status](https://travis-ci.org/cryeo/request_global.svg?branch=master)](https://travis-ci.org/cryeo/request_global)
 RequestGlobal provides global storage per request for Rails. The core part of RequestGlobal is written in Ruby's C API.
 
 ## Installation
